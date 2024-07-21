@@ -1,8 +1,9 @@
 # How to run the project
 
 1. Clone the git repository using "git clone https://github.com/vishnuB13/Story.git"  command in the terminal.
-2. Run the command "npm install" command
-3. Run the command "npm start" command
+2. Run the command "cd Story"
+3. Run the command "npm install" command
+4. Run the command "npm start" command
 
 
 
