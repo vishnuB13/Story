@@ -1,3 +1,11 @@
+# How to run the project
+
+1. Clone the git repository using "git clone https://github.com/vishnuB13/Story.git"  command in the terminal.
+2. Run the command "npm install" command
+3. Run the command "npm start" command
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
